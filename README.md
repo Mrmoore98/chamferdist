@@ -21,7 +21,7 @@ In your favourite python/conda virtual environment, execute the following comman
 > **NOTE**: This assumes you have PyTorch installed already (preferably, >= 1.5.0; untested for earlier releases).
 
 ```python
-python setup.py install
+python setup.py develop
 ```
 
 ### Running (example)
